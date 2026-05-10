@@ -1,8 +1,6 @@
 venv/
 .env
 __pycache__/
+app/__pycache__/
 *.pyc
 logs/
-app/__pycache__/
-__pycache__/
-*.pyc

@@ -1,0 +1,14 @@
+[
+    {
+        "timestamp": "2026-05-09T15:41:14.966797",
+        "invoice_no": "INV-1001",
+        "client_name": "Rajesh Kapoor",
+        "amount": 45000,
+        "days_overdue": 8,
+        "stage": "2nd Follow-Up",
+        "tone": "Polite but Firm",
+        "risk": "LOW",
+        "email_subject": "Payment Reminder \u2013 Invoice #INV-1001 | \u20b945000 Due",
+        "status": "DRY_RUN_SENT"
+    }
+]
